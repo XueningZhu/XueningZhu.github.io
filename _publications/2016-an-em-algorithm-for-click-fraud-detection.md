@@ -3,7 +3,7 @@ title: "An EM algorithm for click fraud detection"
 collection: publications
 permalink: /publication/2016-an-em-algorithm-for-click-fraud-detection.md
 excerpt: ''
-date: 2016
+
 venue: 'Statistics and Its Interface'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695953'
 
