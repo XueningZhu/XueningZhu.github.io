@@ -11,4 +11,3 @@ citation: 'Zhu, X., Pan, R., Li, G., Liu, Y., and Wang, H. (2017), &quot;Network
 
 ---
 
-[Download paper here]('https://projecteuclid.org/euclid.aos/1497319689)
