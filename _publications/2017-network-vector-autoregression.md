@@ -3,7 +3,7 @@ title: "Network vector autoregression"
 collection: publications
 permalink: /publication/2017-network-vector-autoregression
 excerpt: ''
-date: 2017
+
 venue: 'Annals of Statistics'
 paperurl: 'https://projecteuclid.org/euclid.aos/1497319689'
 
