@@ -4,15 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "Multivariate spatial autoregression for large scale social network," Journal of Econometrics, To appear
+- **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "Multivariate spatial autoregression for large scale social network," Journal of Econometrics, To appear.
 
-- **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](http://101.96.10.63/www3.stat.sinica.edu.tw/preprint/SS-2017-0533_Preprint%202.pdf)," Statistica Sinica, To appear
+- **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](http://101.96.10.63/www3.stat.sinica.edu.tw/preprint/SS-2017-0533_Preprint%202.pdf)," Statistica Sinica, To appear.
 
-- **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../publications/NQAR)," Journal of Econometrics, To appear
+- **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../publications/NQAR)," Journal of Econometrics, To appear.
 
-- Pan, R., Guan, R., and **Zhu, X.** (2018), "[A latent moving average model for network regression](http://intlpress.com/site/pub/pages/journals/items/sii/content/vols/0011/0004/a008/index.html)," Statistics and Its Interface, 11, 641-648
+- Pan, R., Guan, R., and **Zhu, X.** (2018), "[A latent moving average model for network regression](http://intlpress.com/site/pub/pages/journals/items/sii/content/vols/0011/0004/a008/index.html)," Statistics and Its Interface, 11, 641-648.
 
-- Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2018), “Network logistic regression model,” Statistica Sinica, To appear
+- Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2018), “Network logistic regression model,” Statistica Sinica, To appear.
 
 - Cai, W., Guan, G., Pan, R., **Zhu, X.**, and Wang, H. (2018), "[Network linear discriminant analysis](https://www.sciencedirect.com/science/article/pii/S016794731730155X)," Computational Statistics and Data Analysis, 117, 32-44.
 
