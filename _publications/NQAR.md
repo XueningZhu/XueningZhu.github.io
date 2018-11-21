@@ -2,11 +2,10 @@
 title: "Network Quantile Autoregression"
 collection: publications
 permalink: /publications/NQAR
-venue: "Journal of Econometrics"
 date: 2018-4-14
 citation: '<b>Zhu, X.</b>, Wang, W., Wang, H., and Hardle, W. (2018), Journal of Econometrics, To appear'
 ---
-[[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
+[[PDF]](../publications/NQAR.pdf)
 
 
 ## Abstract
