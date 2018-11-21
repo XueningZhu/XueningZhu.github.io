@@ -5,7 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Zhu, X., Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../publication/2017-network-vector-autoregression)," Journal of Econometrics, To appear
+- **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "Multivariate spatial autoregression for large scale social network," Journal of Econometrics, To appear
+
+- **Zhu, X.**, and Pan, R. (2018), "Grouped network vector autoregression," Statistica Sinica, To appear
+
+- **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../publication/2017-network-vector-autoregression)," Journal of Econometrics, To appear
+
+- Pan, R., Guan, R., and **Zhu, X.** (2018), "A latent moving average model for network regression," Statistics and Its Interface, To appear
+
+- Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2018), “Network logistic regression model,” Statistica Sinica, To appear
 
 - Cai, W., Guan, G., Pan, R., **Zhu, X.**, and Wang, H. (2018), "[Network linear discriminant analysis](https://www.sciencedirect.com/science/article/pii/S016794731730155X)," Computational Statistics and Data Analysis, 117, 32-44.
 
