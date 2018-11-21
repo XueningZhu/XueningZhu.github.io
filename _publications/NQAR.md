@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/NQAR
 venue: "Journal of Econometrics"
 date: 2018-4-14
-citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.'
+citation: '<b>Zhu, X.</b>, Wang, W., Wang, H., and Hardle, W. (2018), Journal of Econometrics, To appear'
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
 
