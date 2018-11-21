@@ -20,3 +20,6 @@ author_profile: true
 - **Zhu, X.**, Pan, R., Li, G., Liu, Y., and Wang, H. (2017), "[Network vector autoregression](https://projecteuclid.org/euclid.aos/1497319689)", Annals of Statistics, 45, 1096-1123.
 
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2016), "[An EM algorithm for click fraud detection](http://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0009/0003/a012/)," Statistics and Its Interface, 9, 389-394.
+
+<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
+Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
