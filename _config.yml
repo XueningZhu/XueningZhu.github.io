@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuening Zhu"
 title_separator          : "-"
 name                     : &name "Xuening Zhu"
-description              : &description "Assistant Professor in School of Data Science"
+description              : &description "Assistant Professor"
 url                      : https://XueningZhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XueningZhu.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Xuening Zhu"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in School of Data Science"
+  bio              : "Assistant Professor"
   location         : "Fudan University, Shanghai"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=BdUr758AAAAJ&hl=en"
