@@ -2,6 +2,7 @@
 title: "Network Quantile Autoregression"
 collection: publications
 permalink: /publications/NQAR
+toappear: "Journal of Econometrics"
 date: 2018-4-14
 citation: '<b>Zhu, X.</b>, Wang, W., Wang, H., and Hardle, W. (2018), Journal of Econometrics, To appear'
 ---
@@ -9,4 +10,4 @@ citation: '<b>Zhu, X.</b>, Wang, W., Wang, H., and Hardle, W. (2018), Journal of
 
 
 ## Abstract
-We propose Cooperative Training (CoT) for training generative models that measure a tractable density function for target data. CoT coordinately trains a generator G and an auxiliary predictive mediator M. The training target of M is to estimate a mixture density of the learned distribution G and the target distribution P, and that of G is to minimize the Jensen-Shannon divergence estimated through M. CoT achieves independent success without the necessity of pre-training via Maximum Likelihood Estimation or involving high-variance algorithms like REINFORCE. This low-variance algorithm is theoretically proved to be unbiased for both generative and predictive tasks. We also theoretically and empirically show the superiority of CoT over most previous algorithms, in terms of generative quality and diversity, predictive generalization ability and computational cost.
+The complex tail dependency structure in a dynamic network with a large number of nodes is an important object to study. Here we propose a network quantile autoregression model (NQAR), which characterizes the dynamic quantile behavior. Our NQAR model consists of a system of equations, of which we relate a response to its connected nodes and node specific characteristics in a quantile autoregression process. We show the estimation of the NQAR model and the asymptotic properties with assumptions on the network structure. For this propose we develop a network Bahadur representation that gives us direct insight into the parameter asymptotics. Moreover, innovative tail-event driven impulse functions are defined. Finally, we demonstrate the usage of our model by investigating the financial contagions in the Chinese stock market accounting for shared ownership of companies. We find higher network dependency when the market is exposed to a higher volatility level.
