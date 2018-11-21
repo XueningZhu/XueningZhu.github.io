@@ -19,3 +19,7 @@ author_profile: true
 - **Zhu, X.**, Pan, R., Li, G., Liu, Y., and Wang, H. (2017), "[Network vector autoregression](https://projecteuclid.org/euclid.aos/1497319689)", Annals of Statistics, 45, 1096-1123.
 
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2016), "[An EM algorithm for click fraud detection](http://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0009/0003/a012/)," Statistics and Its Interface, 9, 389-394.
+
+# Books
+
+- 朱雪宁等, (2018). [R语言：从数据思维到数据实践](http://www.xiong99.com.cn/create.php). 人民大学出版社.
