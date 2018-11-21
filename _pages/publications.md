@@ -6,7 +6,7 @@ author_profile: true
 
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "Multivariate spatial autoregression for large scale social network," Journal of Econometrics, To appear
 
-- **Zhu, X.**, and Pan, R. (2018), "Grouped network vector autoregression," Statistica Sinica, To appear
+- **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](http://101.96.10.63/www3.stat.sinica.edu.tw/preprint/SS-2017-0533_Preprint%202.pdf)," Statistica Sinica, To appear
 
 - **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../publications/NQAR)," Journal of Econometrics, To appear
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/NQAR
 toappear: "Journal of Econometrics"
 date: 2018-4-14
-citation: '<b>Zhu, X.</b>, Wang, W., Wang, H., and Hardle, W. (2018), Journal of Econometrics, To appear'
+citation: '<b>Zhu, X.</b>, Wang, W., Wang, H., and Hardle, W. (2018), "Network quantile autoregression," Journal of Econometrics, To appear'
 ---
 [[PDF]](../publications/NQAR.pdf)
 
