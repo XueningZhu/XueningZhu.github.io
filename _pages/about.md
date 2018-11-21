@@ -10,10 +10,17 @@ redirect_from:
 
 ![](../images/webpage.jpg)
 
-I am an assistant professor in School of Data Science at Fudan University. I got my Ph.D. degree from Guanghua School of Management, Peking University in 2017. After that I worked as a postdoctoral research assistant in Department of Statistics, Penn State University during 2017-2018. My research interests are mainly on network/spatial data modelling and business statistics. 
+I am an assistant professor in [School of Data Science](http://www.sds.fudan.edu.cn/wp/) at Fudan University. I got my Ph.D. degree from [Guanghua School of Management, Peking University](http://www.gsm.pku.edu.cn/) in 2017. After that I worked as a postdoctoral research assistant in [Department of Statistics, Penn State University](http://stat.psu.edu/) during 2017-2018. My research interests are mainly on network/spatial data modelling and business statistics. 
 
 
 # Education
 
-- Ph.D. in Statistics, 2017 Peking University
-- Ph.D. in Applied Mathematics, 2013 Sun-Yat Sen University
+- 2017, Ph.D. in Statistics, Guanghua School of Management, Peking University
+- 2013, B.S. in Applied Mathematics, Department of Mathematics and Computer Science, Sun-Yat Sen University
+
+# Research Interests
+
+- Network Data Analysis
+- High Dimensional Modelling
+- Spatial Data Analysis
+- Business Statistics
