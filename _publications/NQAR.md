@@ -1,10 +1,10 @@
 ---
-title: "CoT: Cooperative Training for Generative Modeling of Discrete Data"
+title: "Network Quantile Autoregression"
 collection: publications
-permalink: /publications/CoT
-venue: "ArXiv 2018"
-date: 2018-4-12
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>'
+permalink: /publications/NQAR
+venue: "Journal of Econometrics"
+date: 2018
+citation: **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "Multivariate spatial autoregression for large scale social network," Journal of Econometrics, To appear
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
 

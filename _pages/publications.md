@@ -8,7 +8,7 @@ author_profile: true
 
 - **Zhu, X.**, and Pan, R. (2018), "Grouped network vector autoregression," Statistica Sinica, To appear
 
-- **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../publication/2017-network-vector-autoregression)," Journal of Econometrics, To appear
+- **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../publication/NQAR)," Journal of Econometrics, To appear
 
 - Pan, R., Guan, R., and **Zhu, X.** (2018), "A latent moving average model for network regression," Statistics and Its Interface, To appear
 
