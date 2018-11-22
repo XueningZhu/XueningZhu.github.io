@@ -22,4 +22,4 @@ author_profile: true
 
 # Books
 
-- 朱雪宁 等, (2018). [R语言：从数据思维到数据实践](http://www.xiong99.com.cn/create.php). 中国人民大学出版社. [Code & Data](http://www.xiong99.com.cn/upload/file/20181101/1541061836764942.rar)
+- 朱雪宁 等, (2018). [R语言：从数据思维到数据实践](http://www.xiong99.com.cn/create.php). 中国人民大学出版社. [[Code & Data]](http://www.xiong99.com.cn/upload/file/20181101/1541061836764942.rar)
