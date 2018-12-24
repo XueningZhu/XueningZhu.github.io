@@ -23,3 +23,4 @@ author_profile: true
 # Books
 
 - 朱雪宁 等, (2018). [R语言：从数据思维到数据实战](http://www.xiong99.com.cn/create.php). 中国人民大学出版社. [[Code & Data]](http://www.xiong99.com.cn/upload/file/20181101/1541061836764942.rar)
+  - Lecture 1. 初识R语言 [[Slide]](../files/R you ready.pdf) [[视频]](eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVjMWNhZWQxYjUwYjdfSlQ5enlaTWEiLCJwcm9kdWN0X2lkIjoiIiwiYXBwX2lkIjoiYXBwaXNvOEJqV3A3ODg2IiwiZXh0cmFfZGF0YSI6MH0)
