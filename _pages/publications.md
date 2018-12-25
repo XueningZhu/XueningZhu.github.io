@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Zhu, X.**, Chang, X., Li, R., and Wang, H. (2018), "[Portal nodes screening for large scale social
+networks](../files/portal_screening.pdf)," Journal of Econometrics, To appear.
+
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "[Multivariate spatial autoregression for large scale social network](../files/MSAR.pdf)," Journal of Econometrics, To appear.
 
 - **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, To appear.
