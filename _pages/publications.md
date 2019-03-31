@@ -9,7 +9,7 @@ networks](../files/portal_screening.pdf)," Journal of Econometrics, To appear.
 
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "[Multivariate spatial autoregression for large scale social network](../files/MSAR.pdf)," Journal of Econometrics, To appear.
 
-- **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, To appear.
+- **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, To appear. [[Code](https://github.com/XueningZhu/GNAR_code)]
 
 - **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../files/NQAR.pdf)," Journal of Econometrics, To appear.
 
