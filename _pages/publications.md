@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Zhu, X.**, Huang, D., Li, R., and Wang, H. (2018), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, To appear. [[Supplement](../files/NSIS_supplement.pdf)]
+
 - **Zhu, X.**, Chang, X., Li, R., and Wang, H. (2018), "[Portal nodes screening for large scale social
 networks](../files/portal_screening.pdf)," Journal of Econometrics, To appear.
 
