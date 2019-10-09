@@ -6,14 +6,13 @@ author_profile: true
 
 - **Zhu, X.**, Huang, D., Li, R., and Wang, H. (2018), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, To appear. [[Supplement](../files/NSIS_supplement.pdf)]
 
-- **Zhu, X.**, Chang, X., Li, R., and Wang, H. (2018), "[Portal nodes screening for large scale social
-networks](../files/portal_screening.pdf)," Journal of Econometrics, To appear.
+- **Zhu, X.**, Chang, X., Li, R., and Wang, H. (2019), "[Portal nodes screening for large scale social networks](https://www.sciencedirect.com/science/article/abs/pii/S0304407618302689)," Journal of Econometrics, 209, 145-157.
+
+- **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2019), "[Network quantile autoregression](https://www.sciencedirect.com/science/article/abs/pii/S0304407619300892)," Journal of Econometrics, 212, 345-358.
 
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2018), "[Multivariate spatial autoregression for large scale social network](../files/MSAR.pdf)," Journal of Econometrics, To appear.
 
 - **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, To appear. [[Code](https://github.com/XueningZhu/GNAR_code)]
-
-- **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2018), "[Network quantile autoregression](../files/NQAR.pdf)," Journal of Econometrics, To appear.
 
 - Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2018), “Network logistic regression model,” Statistica Sinica, To appear.
 
