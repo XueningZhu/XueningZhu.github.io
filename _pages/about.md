@@ -24,3 +24,9 @@ I am currently an assistant professor in [School of Data Science](http://www.sds
 - High Dimensional Modelling
 - Spatial Data Analysis
 - Business Statistics
+
+# Grants
+
+- Statistical modelling and efficient computation for large scale social network data, National Natural Science Foundation of China (Youth Award), 11901105.
+- Network autoregression modelling and dynamic analysis, Shanghai Sailing Program, 19YF1402700
+
