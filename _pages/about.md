@@ -10,7 +10,7 @@ redirect_from:
 
 ![](../images/webpage.jpg)
 
-I am currently an assistant professor in [School of Data Science](http://www.sds.fudan.edu.cn/wp/) at Fudan University. I got my Ph.D. degree from [Guanghua School of Management, Peking University](http://www.gsm.pku.edu.cn/) in 2017, under the supervision of [Prof. Hansheng Wang](http://hansheng.gsm.pku.edu.cn/). During 2017-2018 I worked as a postdoctoral research assistant in [Department of Statistics, Penn State University](http://stat.psu.edu/) with [Prof. Runze Li](http://personal.psu.edu/ril4/). My research interests are mainly on network/spatial data modelling and business statistics. 
+I am currently an assistant professor in [School of Data Science](http://www.sds.fudan.edu.cn/wp/) at Fudan University. I got my Ph.D. degree in Statistics from [Guanghua School of Management, Peking University](http://www.gsm.pku.edu.cn/) in 2017, under the supervision of [Prof. Hansheng Wang](http://hansheng.gsm.pku.edu.cn/). During 2017-2018 I worked as a postdoctoral research assistant in [Department of Statistics, Penn State University](http://stat.psu.edu/) with [Prof. Runze Li](http://personal.psu.edu/ril4/). My research interests are mainly on network/spatial data modelling and business statistics. 
 
 
 # Education
@@ -22,7 +22,7 @@ I am currently an assistant professor in [School of Data Science](http://www.sds
 
 - Network Data Analysis
 - High Dimensional Modelling
-- Spatial Data Analysis
+- Distributed statistical modelling and inference
 - Business Statistics
 
 # Grants
