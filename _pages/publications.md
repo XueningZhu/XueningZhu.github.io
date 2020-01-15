@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Xu, K., Sun, L., Liu, J., **Zhu, X.**, and Wang, H. (2020) “A spatial autoregression model with time-varying coefficients,” Statistics and Its Interface, to appear
+
+- Huang, D., Wang, F., **Zhu, X.**, and Wang, H. (2020), "Two-mode network autoregressive model for large-scale networks," Journal of Econometrics, To appear. 
+
 - Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2019), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, To appear. [[Supplement](../files/NSIS_supplement.pdf)]
 
 - **Zhu, X.**, Chang, X., Li, R., and Wang, H. (2019), "[Portal nodes screening for large scale social networks](https://www.sciencedirect.com/science/article/abs/pii/S0304407618302689)," Journal of Econometrics, 209, 145-157. 
