@@ -20,7 +20,7 @@ author_profile: true
 
 - 王菲菲, **朱雪宁**, 潘蕊, 高天辰 (2019), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 已接收.
 
-- **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2019), "[Multivariate spatial autoregression for large scale social network](https://www.sciencedirect.com/science/article/pii/S030440761930212X)," Journal of Econometrics, Online.
+- **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2019), "[Multivariate spatial autoregression for large scale social network](https://www.sciencedirect.com/science/article/pii/S030440761930212X)," Journal of Econometrics, 215, 591-606.
 
 - **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, To appear. [[Code](https://github.com/XueningZhu/GNAR_code)]
 
