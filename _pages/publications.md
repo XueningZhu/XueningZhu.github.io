@@ -6,9 +6,11 @@ author_profile: true
 
 - **Zhu, X.** (2020) “[Nonconcave penalized estimation in sparse vector autoregression model](https://projecteuclid.org/euclid.ejs/1585728014),” Electronic Journal of Statistics, 14, 1413-1448.
 
-- Xu, K., Sun, L., Liu, J., **Zhu, X.**, and Wang, H. (2020) “A spatial autoregression model with time-varying coefficients,” Statistics and Its Interface, to appear
+- Xu, K., Sun, L., Liu, J., **Zhu, X.**, and Wang, H. (2020) “[A spatial autoregression model with time-varying coefficients](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0013/0002/a010/index.php),” Statistics and Its Interface, 13, 261-270.
 
-- Huang, D., Wang, F., **Zhu, X.**, and Wang, H. (2020), "Two-mode network autoregressive model for large-scale networks," Journal of Econometrics, To appear. 
+- Huang, D., Wang, F., **Zhu, X.**, and Wang, H. (2020), "[Two-mode network autoregressive model for large-scale networks](https://www.sciencedirect.com/science/article/pii/S0304407620300191)," Journal of Econometrics, 216, 203-219.
+
+- Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2020), “Network logistic regression model,” Statistica Sinica, 30, 673-693.
 
 - Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2019), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, To appear. [[Supplement](../files/NSIS_supplement.pdf)]
 
@@ -22,7 +24,6 @@ author_profile: true
 
 - **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, To appear. [[Code](https://github.com/XueningZhu/GNAR_code)]
 
-- Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2018), “Network logistic regression model,” Statistica Sinica, To appear.
 
 - Pan, R., Guan, R., and **Zhu, X.** (2018), "[A latent moving average model for network regression](http://intlpress.com/site/pub/pages/journals/items/sii/content/vols/0011/0004/a008/index.html)," Statistics and Its Interface, 11, 641-648.
 
