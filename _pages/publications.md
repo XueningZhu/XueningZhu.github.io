@@ -6,6 +6,8 @@ author_profile: true
 
 - **Zhu, X.** (2020) “[Nonconcave penalized estimation in sparse vector autoregression model](https://projecteuclid.org/euclid.ejs/1585728014),” Electronic Journal of Statistics, 14, 1413-1448.
 
+- **Zhu, X.**, Pan, R., Zhang, Y., Chen, Y., Mi, W., Wang, H. (2020) ``Information diffusion with network structures", Statistics and Its Interface, To appear
+
 - Xu, K., Sun, L., Liu, J., **Zhu, X.**, and Wang, H. (2020) “[A spatial autoregression model with time-varying coefficients](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0013/0002/a010/index.php),” Statistics and Its Interface, 13, 261-270.
 
 - Huang, D., Wang, F., **Zhu, X.**, and Wang, H. (2020), "[Two-mode network autoregressive model for large-scale networks](https://www.sciencedirect.com/science/article/pii/S0304407620300191)," Journal of Econometrics, 216, 203-219.
