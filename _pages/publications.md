@@ -8,6 +8,9 @@ author_profile: true
 
 - **Zhu, X.**, Pan, R., Zhang, Y., Chen, Y., Mi, W., Wang, H. (2020) ``Information diffusion with network structures", Statistics and Its Interface, To appear
 
+- **Zhu, X.**, and Pan, R. (2020), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, 30, 1437-1462. [[Code](https://github.com/XueningZhu/GNAR_code)]
+
+
 - Xu, K., Sun, L., Liu, J., **Zhu, X.**, and Wang, H. (2020) “[A spatial autoregression model with time-varying coefficients](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0013/0002/a010/index.php),” Statistics and Its Interface, 13, 261-270.
 
 - Huang, D., Wang, F., **Zhu, X.**, and Wang, H. (2020), "[Two-mode network autoregressive model for large-scale networks](https://www.sciencedirect.com/science/article/pii/S0304407620300191)," Journal of Econometrics, 216, 203-219.
@@ -23,8 +26,6 @@ author_profile: true
 - 王菲菲, **朱雪宁**, 潘蕊, 高天辰 (2019), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 已接收.
 
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2019), "[Multivariate spatial autoregression for large scale social network](https://www.sciencedirect.com/science/article/pii/S030440761930212X)," Journal of Econometrics, 215, 591-606.
-
-- **Zhu, X.**, and Pan, R. (2018), "[Grouped network vector autoregression](../files/GNAR.pdf)," Statistica Sinica, To appear. [[Code](https://github.com/XueningZhu/GNAR_code)]
 
 
 - Pan, R., Guan, R., and **Zhu, X.** (2018), "[A latent moving average model for network regression](http://intlpress.com/site/pub/pages/journals/items/sii/content/vols/0011/0004/a008/index.html)," Statistics and Its Interface, 11, 641-648.
