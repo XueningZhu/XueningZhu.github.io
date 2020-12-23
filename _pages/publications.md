@@ -23,7 +23,7 @@ author_profile: true
  
 - **Zhu, X.**, Wang, W., Wang, H., and Hardle, W. (2019), "[Network quantile autoregression](https://www.sciencedirect.com/science/article/abs/pii/S0304407619300892)," Journal of Econometrics, 212, 345-358.
 
-- 王菲菲, **朱雪宁**, 潘蕊, 高天辰 (2019), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 已接收.
+- 王菲菲, **朱雪宁**, 潘蕊 (2020), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 2020, 50: 1-14.
 
 - **Zhu, X.**, Huang, D., Pan, R., and Wang, H. (2019), "[Multivariate spatial autoregression for large scale social network](https://www.sciencedirect.com/science/article/pii/S030440761930212X)," Journal of Econometrics, 215, 591-606.
 
