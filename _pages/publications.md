@@ -17,7 +17,7 @@ author_profile: true
 
 - Huang, D., Wang, F., **Zhu, X.**, and Wang, H. (2020), "[Two-mode network autoregressive model for large-scale networks](https://www.sciencedirect.com/science/article/pii/S0304407620300191)," Journal of Econometrics, 216, 203-219.
 
-- Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2020), "[Network logistic regression model(../files/NLR.pdf)", Statistica Sinica, 30, 673-693.
+- Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2020), "[Network logistic regression model](../files/NLR.pdf)", Statistica Sinica, 30, 673-693.
 
 - Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2019), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, To appear. [[Supplement](../files/NSIS_supplement.pdf)]
 
