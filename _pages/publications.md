@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Zhu, X.**, Cai, Z., Ma, Y. (2021) "Network Functional Varying Coefficient Model", Journal of the American Statistical Association, accepted.
+- **Zhu, X.**, Cai, Z., Ma, Y. (2021) "[Network functional varying coefficient model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association, accepted.
 
 - **Zhu, X.**, Pan, R., Zhang, Y., Chen, Y., Mi, W., Wang, H. (2021) "[Information diffusion with network structures](../files/net_diffusion.pdf)", Statistics and Its Interface, 14, 115-129.
 
