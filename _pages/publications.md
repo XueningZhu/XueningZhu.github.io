@@ -21,7 +21,7 @@ author_profile: true
 
 - Zhang, X., Pan, R., Guan, G., **Zhu, X.**, and Wang, H. (2020), "[Network logistic regression model](../files/NLR.pdf)", Statistica Sinica, 30, 673-693.
 
-- Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2019), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, To appear. [[Supplement](../files/NSIS_supplement.pdf)]
+- Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2021), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, 31, 1-21. [[Supplement](../files/NSIS_supplement.pdf)]
 
 - **Zhu, X.**, Chang, X., Li, R., and Wang, H. (2019), "[Portal nodes screening for large scale social networks](https://www.sciencedirect.com/science/article/abs/pii/S0304407618302689)," Journal of Econometrics, 209, 145-157. 
  
