@@ -4,7 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Zhu, X.**, Cai, Z., Ma, Y. (2021) "[Network functional varying coefficient model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association, accepted.
+- **Zhu, X.**, Li, F., Wang, H. (2021) "[NLeast-Square Approximation for a Distributed System](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1923517)", Journal of Computational and Graphical Statistics, online.
+
+- **Zhu, X.**, Cai, Z., Ma, Y. (2021) "[Network functional varying coefficient model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association, online.
 
 - **Zhu, X.**, Pan, R., Zhang, Y., Chen, Y., Mi, W., Wang, H. (2021) "[Information diffusion with network structures](../files/net_diffusion.pdf)", Statistics and Its Interface, 14, 115-129.
 
