@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Wu, S., Zhu, X., Wang, H. (2021) "Subsampling and Jackknifing: A Practically Convenient Solution for Large Data Analysis with Limited Computational Resources", Statistica Sinica, accepted
+
 - **Zhu, X.**, Pan, R., Wu, S., Wang, H. (2021) "[Feature Screening for Massive Data Analysis by Subsampling](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1990771)", Journal of Business & Economic Statistics, online.
 
 - **Zhu, X.**, Li, F., Wang, H. (2021) "[Least-Square Approximation for a Distributed System](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1923517)", Journal of Computational and Graphical Statistics, online.
