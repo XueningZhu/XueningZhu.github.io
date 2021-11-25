@@ -12,7 +12,7 @@ author_profile: true
 
 - **Zhu, X.**, Cai, Z., Ma, Y. (2021) "[Network functional varying coefficient model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association, online.
 
-- 王菲菲, **朱雪宁**, 潘蕊 (2020), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 2021, 8:1253-1266.
+- 王菲菲, **朱雪宁**, 潘蕊 (2021), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 2021, 8:1253-1266.
 
 - Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2021), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, 31, 1239-1259. [[Supplement](../files/NSIS_supplement.pdf)]
 
