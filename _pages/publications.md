@@ -16,9 +16,12 @@ author_profile: true
 
 - 王菲菲, **朱雪宁**, 潘蕊 (2021), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 2021, 8:1253-1266.
 
-- Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2021), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)," Statistica Sinica, 31, 1239-1259. [[Supplement](../files/NSIS_supplement.pdf)]
+- Huang, D., **Zhu, X.**, Li, R., and Wang, H. (2021), "[Feature screening for network autoregression model](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0400_na.pdf)", Statistica Sinica, 31, 1239-1259. [[Supplement](../files/NSIS_supplement.pdf)]
 
 - **Zhu, X.**, Pan, R., Zhang, Y., Chen, Y., Mi, W., Wang, H. (2021) "[Information diffusion with network structures](../files/net_diffusion.pdf)", Statistics and Its Interface, 14, 115-129.
+
+- Huang, D., **Zhu, X.**, Luo, W., Yin, H., Hong, J., Chen, Y., Zhou, J., Wang, H. (2021) "[On Identification of High Risk Carriers of COVID-19 Using Masked Mobile Device Data](https://jds-online.org/journal/JDS/article/97/info)", Journal of Data Science, 18(5), 849-859.
+
 
 - **Zhu, X.** (2020) “[Nonconcave penalized estimation in sparse vector autoregression model](https://projecteuclid.org/euclid.ejs/1585728014),” Electronic Journal of Statistics, 14, 1413-1448.
 
