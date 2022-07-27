@@ -15,18 +15,15 @@ I am currently an associate professor in [School of Data Science](http://www.sds
 
 # Education
 
-- 2017, Ph.D. in Statistics, Guanghua School of Management, Peking University
+- 2017, Ph.D. in Economics (Statistics), Guanghua School of Management, Peking University
 - 2013, B.S. in Applied Mathematics, Department of Mathematics and Computer Science, Sun-Yat Sen University
 
 # Research Interests
 
-- Network Data Analysis
+- Network Data Modelling
+- Spatial Econometrics
 - High Dimensional Modelling
 - Distributed statistical modelling and inference
 - Business Statistics
 
-# Grants
-
-- Statistical modelling and efficient computation for large scale social network data, National Natural Science Foundation of China (Youth Award), 11901105.
-- Network autoregression modelling and dynamic analysis, Shanghai Sailing Program, 19YF1402700
 
