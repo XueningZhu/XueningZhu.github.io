@@ -4,7 +4,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Zhang, J., Cai, B., **Zhu, X.**, Wang, H., Xu, G., Guan, Y. "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.
+
+- Chen, E., Fan, J., **Zhu, X.** (2022) "[Community Network Auto-Regression for High-Dimensional Time Series](https://arxiv.org/abs/2007.05521)", Journal of Econometrics, accepted 
+
+- Ren, Y., **Zhu, X.**, Lu, X., Hu, G. (2022) "[Graphical Assistant Grouped Network
+Autoregression Model: a Bayesian
+Nonparametric Recourse](https://www.tandfonline.com/doi/abs/10.1080/07350015.2022.2143784?journalCode=ubes20)",
+Journal of Business & Economic Statistics, online.
+
+- Gao, Y., **Zhu, X.**, Qi, H., Li, G., Zhang, R., Wang, H. (2022) 
+"[An Asymptotic Analysis of Random Partition Based Minibatch Momentum Methods for Linear Regression Models](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2143786?src=&journalCode=ucgs20)", Journal of Computational and Graphical Statistics, online.
+
+- Pan, R., Chang, X., **Zhu, X.**, Wang, H. (2022) "[Link prediction via latent space logistic regression
+model](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0015/0003/a001/index.php)", Statistics and Its Interface, 15, 267-282.
+
+- Zeng, Q., Zhu, Y., **Zhu, X.**, Wang, F., Zhao, W., Sun, S., Su, M.,
+Wang, H. (2022) "[Improved Naive Bayes with Mislabeled Data](../files/2022 SII-Improved_Naive_Bayes_with_Mislabeled_Data.pdf)", Statistics and Its Interface, accepted
+
+
+- Qi, H., **Zhu, X.**, Wang, H. (2022) "[A Random Projection Method for Large-Scale Community Detection](../files/RPCD_AJE.pdf)", Statistics and Its Interface, accepted
+
+
+
+
+
+- Zhang, J., Cai, B., **Zhu, X.**, Wang, H., Xu, G., Guan, Y. (2022) "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.
 
 - Wu, S., **Zhu, X.**, Wang, H. (2021) "[Subsampling and Jackknifing: A Practically Convenient Solution for Large Data Analysis with Limited Computational Resources](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0257_na.pdf)", Statistica Sinica, accepted
 
