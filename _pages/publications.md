@@ -30,11 +30,15 @@ Wang, H. (2022) "[Improved Naive Bayes with Mislabeled Data](../files/2022 SII-I
 
 - Zhang, J., Cai, B., **Zhu, X.**, Wang, H., Xu, G., Guan, Y. (2022) "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.
 
+
+- Guo, B., Wang, L.,  Pan, R., **Zhu, X.** (2022) "[A grouped spatial-temporal model for PM2.5 data and its applications on outlier detection](https://www.tandfonline.com/doi/abs/10.1080/03610918.2022.2081707?journalCode=lssp20)", Communications in Statistics - Simulation and Computation, online.
+
+
 - Wu, S., **Zhu, X.**, Wang, H. (2021) "[Subsampling and Jackknifing: A Practically Convenient Solution for Large Data Analysis with Limited Computational Resources](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0257_na.pdf)", Statistica Sinica, accepted
 
 - **Zhu, X.**, Pan, R., Wu, S., Wang, H. (2021) "[Feature Screening for Massive Data Analysis by Subsampling](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1990771)", Journal of Business & Economic Statistics, online.
 
-- **Zhu, X.**, Li, F., Wang, H. (2021) "[Least-Square Approximation for a Distributed System](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1923517)", Journal of Computational and Graphical Statistics, online.
+- **Zhu, X.**, Li, F., Wang, H. (2021) "[Least-Square Approximation for a Distributed System](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1923517)", Journal of Computational and Graphical Statistics, 30(4), 1004-1018.
 
 - **Zhu, X.**, Cai, Z., Ma, Y. (2021) "[Network functional varying coefficient model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association, online.
 
