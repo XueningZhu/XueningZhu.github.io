@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Pan, R., Zhu, Y., Guo, B., **Zhu, X.**, Wang, H. (2023) "A Sequential Addressing Subsampling Method for Massive Data Analysis under Memory Constraint",  IEEE Transactions on Knowledge and Data Engineering, accepted
+
+- Li, X., **Zhu, X.**, Wang, H. (2023) "[Distributed Logistic Regression for Massive Data with Rare Events](https://arxiv.org/abs/2304.02269)", Statistica Sinica, accepted
 
 - Chen, E., Fan, J., **Zhu, X.** (2022) "[Community Network Auto-Regression for High-Dimensional Time Series](https://arxiv.org/abs/2007.05521)", Journal of Econometrics, accepted 
 
