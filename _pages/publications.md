@@ -4,17 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", 
+- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, online.
 
 - Pan, R., Zhu, Y., Guo, B., **Zhu, X.**, Wang, H. (2023) "A Sequential Addressing Subsampling Method for Massive Data Analysis under Memory Constraint",  IEEE Transactions on Knowledge and Data Engineering, accepted
 
 - Li, X., **Zhu, X.**, Wang, H. (2023) "[Distributed Logistic Regression for Massive Data with Rare Events](https://arxiv.org/abs/2304.02269)", Statistica Sinica, accepted
 
-- Chen, E., Fan, J., **Zhu, X.** (2022) "[Community Network Auto-Regression for High-Dimensional Time Series](https://arxiv.org/abs/2007.05521)", Journal of Econometrics, accepted 
+- Chen, E., Fan, J., **Zhu, X.** (2022) "[Community Network Auto-Regression for High-Dimensional Time Series](https://www.sciencedirect.com/science/article/pii/S0304407622001890)", Journal of Econometrics, accepted 
 
 - Ren, Y., **Zhu, X.**, Lu, X., Hu, G. (2022) "[Graphical Assistant Grouped Network
 Autoregression Model: a Bayesian
-Nonparametric Recourse](https://www.tandfonline.com/doi/abs/10.1080/07350015.2022.2143784?journalCode=ubes20)", Computational Statistics & Data Analysis, online.
+Nonparametric Recourse](https://www.tandfonline.com/doi/abs/10.1080/07350015.2022.2143784?journalCode=ubes20)",
 Journal of Business & Economic Statistics, online.
 
 - Gao, Y., **Zhu, X.**, Qi, H., Li, G., Zhang, R., Wang, H. (2022) 
