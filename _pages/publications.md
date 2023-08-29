@@ -4,13 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, online.
+- Fang, G., Xu, G., Xu, H., **Zhu, X.**, Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, accepted
 
-- Pan, R., Zhu, Y., Guo, B., **Zhu, X.**, Wang, H. (2023) "A Sequential Addressing Subsampling Method for Massive Data Analysis under Memory Constraint",  IEEE Transactions on Knowledge and Data Engineering, accepted
+- **Zhu, X.**, Xu, G., Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, accepted
+
+- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794.
+
+- Pan, R., Zhu, Y., Guo, B., **Zhu, X.**, Wang, H. (2023) "A Sequential Addressing Subsampling Method for Massive Data Analysis under Memory Constraint",  IEEE Transactions on Knowledge and Data Engineering.
 
 - Li, X., **Zhu, X.**, Wang, H. (2023) "[Distributed Logistic Regression for Massive Data with Rare Events](https://arxiv.org/abs/2304.02269)", Statistica Sinica, accepted
 
-- Chen, E., Fan, J., **Zhu, X.** (2022) "[Community Network Auto-Regression for High-Dimensional Time Series](https://www.sciencedirect.com/science/article/pii/S0304407622001890)", Journal of Econometrics, accepted 
+- Zhang, J., Cai, B., **Zhu, X.**, Wang, H., Xu, G., Guan, Y. (2023) "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, 41(2), 388-398.
+
+- Chen, E., Fan, J., **Zhu, X.** (2023) "[Community Network Auto-Regression for High-Dimensional Time Series](https://www.sciencedirect.com/science/article/pii/S0304407622001890)", Journal of Econometrics, 235(2), 1239-1256.
+
 
 - Ren, Y., **Zhu, X.**, Lu, X., Hu, G. (2022) "[Graphical Assistant Grouped Network
 Autoregression Model: a Bayesian
@@ -32,20 +39,17 @@ Wang, H. (2022) "[Improved Naive Bayes with Mislabeled Data](../files/2022 SII-I
 
 
 
-
-- Zhang, J., Cai, B., **Zhu, X.**, Wang, H., Xu, G., Guan, Y. (2022) "[Learning Human Activity Patterns using Clustered Point Processes with Active and Inactive States](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.2025065)", Journal of Business & Economic Statistics, online.
-
-
 - Guo, B., Wang, L.,  Pan, R., **Zhu, X.** (2022) "[A grouped spatial-temporal model for PM2.5 data and its applications on outlier detection](https://www.tandfonline.com/doi/abs/10.1080/03610918.2022.2081707?journalCode=lssp20)", Communications in Statistics - Simulation and Computation, online.
 
+- **Zhu, X.**, Cai, Z., Ma, Y. (2022) "[Network functional varying coefficient model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association, 117(540), 2074-2085.
 
-- Wu, S., **Zhu, X.**, Wang, H. (2021) "[Subsampling and Jackknifing: A Practically Convenient Solution for Large Data Analysis with Limited Computational Resources](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0257_na.pdf)", Statistica Sinica, accepted
+- **Zhu, X.**, Pan, R., Wu, S., Wang, H. (2022) "[Feature Screening for Massive Data Analysis by Subsampling](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1990771)", Journal of Business & Economic Statistics, 40(4), 1892-1903.
 
-- **Zhu, X.**, Pan, R., Wu, S., Wang, H. (2021) "[Feature Screening for Massive Data Analysis by Subsampling](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1990771)", Journal of Business & Economic Statistics, online.
+
+- Wu, S., **Zhu, X.**, Wang, H. (2021) "[Subsampling and Jackknifing: A Practically Convenient Solution for Large Data Analysis with Limited Computational Resources](https://arxiv.org/abs/2304.06231)", Statistica Sinica, accepted
 
 - **Zhu, X.**, Li, F., Wang, H. (2021) "[Least-Square Approximation for a Distributed System](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.1923517)", Journal of Computational and Graphical Statistics, 30(4), 1004-1018.
 
-- **Zhu, X.**, Cai, Z., Ma, Y. (2021) "[Network functional varying coefficient model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association, online.
 
 - 王菲菲, **朱雪宁**, 潘蕊 (2021), "[广义网络向量自回归](../files/GENAR.pdf)", 中国科学：数学, 2021, 8:1253-1266.
 
