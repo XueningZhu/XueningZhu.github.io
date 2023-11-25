@@ -23,7 +23,7 @@ I am currently an associate professor in [School of Data Science](http://www.sds
 - Network Data Modelling
 - Spatial Econometrics
 - High Dimensional Modelling
-- Distributed statistical modelling and inference
+- Distributed Statistical Modelling and Inference
 - Business Statistics
 
 # Editorial Services
