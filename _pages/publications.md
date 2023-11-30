@@ -4,11 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Ren, Y., Li, Z., **Zhu, X.**, Gao., Y., Wang, H. (2023) "[Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks](https://arxiv.org/abs/2210.16634)", Journal of Econometrics, accepted. (Joint work with my students Yimeng Ren and Zhe Li)
+
 - Fang, G., Xu, G., Xu, H., **Zhu, X.**, Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, accepted
 
 - **Zhu, X.**, Xu, G., Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, accepted
 
-- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794.
+- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794. (Joint work with my students Shihao Li and Zhe Li)
 
 - Pan, R., Zhu, Y., Guo, B., **Zhu, X.**, Wang, H. (2023) "A Sequential Addressing Subsampling Method for Massive Data Analysis under Memory Constraint",  IEEE Transactions on Knowledge and Data Engineering.
 
@@ -22,7 +24,7 @@ author_profile: true
 - Ren, Y., **Zhu, X.**, Lu, X., Hu, G. (2022) "[Graphical Assistant Grouped Network
 Autoregression Model: a Bayesian
 Nonparametric Recourse](https://www.tandfonline.com/doi/abs/10.1080/07350015.2022.2143784?journalCode=ubes20)",
-Journal of Business & Economic Statistics, online.
+Journal of Business & Economic Statistics, online. (Joint work with my student Yimeng Ren)
 
 - Gao, Y., **Zhu, X.**, Qi, H., Li, G., Zhang, R., Wang, H. (2022) 
 "[An Asymptotic Analysis of Random Partition Based Minibatch Momentum Methods for Linear Regression Models](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2143786?src=&journalCode=ucgs20)", Journal of Computational and Graphical Statistics, online.
