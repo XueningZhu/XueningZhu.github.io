@@ -10,7 +10,7 @@ author_profile: true
 
 - **Zhu, X.**, Xu, G., Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, accepted
 
-- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794. (Joint work with my students Shihao Li and Zhe Li)
+- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794. (Joint work with my students Shihao Wu and Zhe Li)
 
 - Pan, R., Zhu, Y., Guo, B., **Zhu, X.**, Wang, H. (2023) "A Sequential Addressing Subsampling Method for Massive Data Analysis under Memory Constraint",  IEEE Transactions on Knowledge and Data Engineering.
 
