@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+- Gao, Y., Zhang, Z., Cai Z., **Zhu, X.**, Zou, T., Wang, H. (2024) "Penalized Sparse Covariance Regression with High Dimensional Covariates", Journal of Business & Economic Statistics, accepted. 
+
+- Zhang, Y., Pan, R., **Zhu, X.**, Fang, K., Wang, H. (2024) "[A Latent Space Model for Weighted Keyword Co-occurrence Networks with Applications in Knowledge Discovery in Statistics](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2407465?src=)", Journal of Computational and Graphical Statistics, accepted.
+
+
 - Ren, Y., Li, Z., **Zhu, X.**, Gao., Y., Wang, H. (2023) "[Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks](https://arxiv.org/abs/2210.16634)", Journal of Econometrics, accepted. (Joint work with my students Yimeng Ren and Zhe Li)
 
 - Fang, G., Xu, G., Xu, H., **Zhu, X.**, Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, accepted
