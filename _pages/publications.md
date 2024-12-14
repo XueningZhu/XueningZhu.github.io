@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+- 陈松蹊, 陈国青, 常晋源, 霍红, 章魏, 张新雨, 朱雪宁, 王汉生 (2024) "[大规模商务场景的统计管理理论](https://mp.weixin.qq.com/s/6VCUAvaeWnP1aiw925Thqg)", 中国科学基金.
+
+- 任怡萌, 陶春柏, 朱雪宁 (2024) "[网络数据建模、分析与应用研究综述](https://mp.weixin.qq.com/s/EkrYTq-eQebI67a1ZnzNGA)", 中国科学基金.
 
 - Gao, Y., Zhang, Z., Cai Z., **Zhu, X.**, Zou, T., Wang, H. (2024) "Penalized Sparse Covariance Regression with High Dimensional Covariates", Journal of Business & Economic Statistics, accepted. 
 
