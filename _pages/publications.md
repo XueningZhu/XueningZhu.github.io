@@ -4,20 +4,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-- 陈松蹊, 陈国青, 常晋源, 霍红, 章魏, 张新雨, 朱雪宁, 王汉生 (2024) "[大规模商务场景的统计管理理论](https://mp.weixin.qq.com/s/6VCUAvaeWnP1aiw925Thqg)", 中国科学基金.
+- Meng, J., Ren, Y., **Zhu, X.**, & Hu, G. (2025) "[Spatially Clustered Compositional Regression: A Nonparametric Bayesian Approach](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2500978)", Journal of Computational and Graphical Statistics, accepted.
 
-- 任怡萌, 陶春柏, 朱雪宁 (2024) "[网络数据建模、分析与应用研究综述](https://mp.weixin.qq.com/s/EkrYTq-eQebI67a1ZnzNGA)", 中国科学基金.
+- Ding, Y., **Zhu, X.**, Pan, R., & Zhang, B. (2025) "[Network Vector Autoregression with Time-Varying Nodal Influence](https://link.springer.com/article/10.1007/s10614-024-10841-9)", Computational Economics.
 
-- Gao, Y., Zhang, Z., Cai Z., **Zhu, X.**, Zou, T., Wang, H. (2024) "Penalized Sparse Covariance Regression with High Dimensional Covariates", Journal of Business & Economic Statistics, accepted. 
+- Dutta, A., Uddin, G. S., Sheng, L. W., Park, D., & **Zhu, X**. (2024) "[Volatility Dynamics of Agricultural Futures Markets under Uncertainties](https://www.sciencedirect.com/science/article/pii/S0140988324004626)", Energy Economics.
+
+- 陈松蹊, 陈国青, 常晋源, 霍红, 章魏, 张新雨, **朱雪宁**, 王汉生 (2024) "[大规模商务场景的统计管理理论](https://mp.weixin.qq.com/s/6VCUAvaeWnP1aiw925Thqg)", 中国科学基金.
+
+- 任怡萌, 陶春柏, **朱雪宁** (2024) "[网络数据建模、分析与应用研究综述](https://mp.weixin.qq.com/s/EkrYTq-eQebI67a1ZnzNGA)", 中国科学基金.
+
+- Gao, Y., Zhang, Z., Cai Z., **Zhu, X.**, Zou, T., Wang, H. (2024) "[Penalized Sparse Covariance Regression with High Dimensional Covariates](https://www.tandfonline.com/doi/abs/10.1080/07350015.2024.2415109)", Journal of Business & Economic Statistics, accepted. 
 
 - Zhang, Y., Pan, R., **Zhu, X.**, Fang, K., Wang, H. (2024) "[A Latent Space Model for Weighted Keyword Co-occurrence Networks with Applications in Knowledge Discovery in Statistics](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2407465?src=)", Journal of Computational and Graphical Statistics, accepted.
 
 
-- Ren, Y., Li, Z., **Zhu, X.**, Gao., Y., Wang, H. (2023) "[Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks](https://arxiv.org/abs/2210.16634)", Journal of Econometrics, accepted. (Joint work with my students Yimeng Ren and Zhe Li)
+- Ren, Y., Li, Z., **Zhu, X.**, Gao., Y., Wang, H. (2024) "[Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks](https://www.sciencedirect.com/science/article/abs/pii/S0304407623003457)", Journal of Econometrics. (Joint work with my students Yimeng Ren and Zhe Li)
 
-- Fang, G., Xu, G., Xu, H., **Zhu, X.**, Guan, Y. (2023) "[Group Network Hawkes Process](https://arxiv.org/abs/2002.08521)", Journal of the American Statistical Association, accepted
+- Fang, G., Xu, G., Xu, H., **Zhu, X.**, Guan, Y. (2024) "[Group Network Hawkes Process](https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2257889)", Journal of the American Statistical Association.
 
-- **Zhu, X.**, Xu, G., Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://arxiv.org/abs/2209.12229)", Journal of Econometrics, accepted
+- **Zhu, X.**, Xu, G., Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://www.sciencedirect.com/science/article/abs/pii/S0304407623002804)", Journal of Econometrics.
 
 - Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794. (Joint work with my students Shihao Wu and Zhe Li)
 
