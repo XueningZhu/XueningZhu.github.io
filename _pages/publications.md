@@ -4,6 +4,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Shi, J., **Zhu, X.**, Zhou, J., 
+Yu, B., Wang, H. (2025+).
+"[High-Dimensional Spatial Autoregression
+with Latent Factors By Diversified Projections](https://arxiv.org/abs/2509.00742)",
+Journal of the American Statistical Association,
+accepted.
+
+- Lu, Y., Tao, C., Wang, D.,  Uddin, G., Wu, L., **Zhu, X.** (2025+).
+        "[Robust Estimation for Dynamic Spatial Autoregression Models with Nearly Optimal Rates](https://www.sciencedirect.com/science/article/pii/S0304407625001198)", {Journal of Econometrics}, accepted. (with my students Yin Lu and Chunbai Tao)
+
+- Lu, Y., **Zhu, X.**, He, T., Wipf, D. (2025). "[Sparse Autoencoders, Again?](https://arxiv.org/abs/2506.04859)'', {Proceedings of the 38th International Conference on Machine Learning (ICML 2025)}.
+
+
 - Meng, J., Ren, Y., **Zhu, X.**, & Hu, G. (2025) "[Spatially Clustered Compositional Regression: A Nonparametric Bayesian Approach](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2500978)", Journal of Computational and Graphical Statistics, accepted.
 
 - Ding, Y., **Zhu, X.**, Pan, R., & Zhang, B. (2025) "[Network Vector Autoregression with Time-Varying Nodal Influence](https://link.springer.com/article/10.1007/s10614-024-10841-9)", Computational Economics.
