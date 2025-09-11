@@ -14,7 +14,7 @@ accepted.
 - Lu, Y., Tao, C., Wang, D.,  Uddin, G., Wu, L., **Zhu, X.** (2025+).
         "[Robust Estimation for Dynamic Spatial Autoregression Models with Nearly Optimal Rates](https://www.sciencedirect.com/science/article/pii/S0304407625001198)", Journal of Econometrics, accepted. (with my students Yin Lu and Chunbai Tao)
 
-- Lu, Y., **Zhu, X.**, He, T., Wipf, D. (2025). "[Sparse Autoencoders, Again?](https://arxiv.org/abs/2506.04859)'', Proceedings of the 38th International Conference on Machine Learning (ICML 2025).
+- Lu, Y., **Zhu, X.**, He, T., Wipf, D. (2025). "[Sparse Autoencoders, Again?](https://arxiv.org/abs/2506.04859)'', Proceedings of the 38th International Conference on Machine Learning (ICML 2025). (with my student Yin Lu)
 
 
 - Meng, J., Ren, Y., **Zhu, X.**, & Hu, G. (2025) "[Spatially Clustered Compositional Regression: A Nonparametric Bayesian Approach](https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2500978)", Journal of Computational and Graphical Statistics, accepted.
