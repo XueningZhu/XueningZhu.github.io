@@ -117,4 +117,3 @@ Wang, H. (2022) "[Improved Naive Bayes with Mislabeled Data](../files/2022 SII-I
 - 朱雪宁 等, (2021). [统计分析（以R语言为工具）](https://item.jd.com/13422394.html). [[Code & Data]](https://xueningzhu.github.io/Statistical-Analysis-with-R/index.html)
 
 - 朱雪宁 等, (2018). R语言：从数据思维到数据实战. 中国人民大学出版社 (ISBN: 978-7-300-26311-3). [[Code & Data]](../files/R_code.rar)
-  - Lecture 1. 初识R语言 [[Slide]](../files/R you ready.pdf) 
