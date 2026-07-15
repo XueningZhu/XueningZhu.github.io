@@ -1,5 +1,9 @@
-- Shi, J., **Zhu, X.**, Zhou, J., 
-Yu, B., Wang, H. (2025+).
+
+- Ren, Y., **Zhu, X.**, Xu, G., Ma, Y. (2026).
+"[Multi-relational Network Autoregression Model with Latent Group Structures](https://jmlr.org/papers/v27/24-1191.html)",
+Journal of Machine Learning Research, online. (with my student Yimeng Ren)
+
+- Shi, J., Zhu, X., Zhou, J., Yu, B., Wang, H.  (2025+).
 "[High-Dimensional Spatial Autoregression
 with Latent Factors By Diversified Projections](https://arxiv.org/abs/2509.00742)",
 Journal of the American Statistical Association,
@@ -27,13 +31,13 @@ accepted.
 - Zhang, Y., Pan, R., **Zhu, X.**, Fang, K., Wang, H. (2024) "[A Latent Space Model for Weighted Keyword Co-occurrence Networks with Applications in Knowledge Discovery in Statistics](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2407465?src=)", Journal of Computational and Graphical Statistics, accepted.
 
 
-- Ren, Y., Li, Z., **Zhu, X.**, Gao., Y., Wang, H. (2024) "[Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks](https://www.sciencedirect.com/science/article/abs/pii/S0304407623003457)", Journal of Econometrics. (Joint work with my students Yimeng Ren and Zhe Li)
+- Ren, Y., Li, Z., **Zhu, X.**, Gao., Y., Wang, H. (2024) "[Distributed Estimation and Inference for Spatial Autoregression Model with Large Scale Networks](https://www.sciencedirect.com/science/article/abs/pii/S0304407623003457)", Journal of Econometrics. (with my students Yimeng Ren and Zhe Li)
 
 - Fang, G., Xu, G., Xu, H., **Zhu, X.**, Guan, Y. (2024) "[Group Network Hawkes Process](https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2257889)", Journal of the American Statistical Association.
 
 - **Zhu, X.**, Xu, G., Fan, J. (2023) "[Simultaneous Estimation and Group Identification for Network Vector Autoregressive Model with Heterogeneous Nodes](https://www.sciencedirect.com/science/article/abs/pii/S0304407623002804)", Journal of Econometrics.
 
-- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794. (Joint work with my students Shihao Wu and Zhe Li)
+- Wu, S., Li, Z., **Zhu, X.** (2023) "[A Distributed Community Detection Algorithm for Large Scale Networks Under Stochastic Block Models](https://www.sciencedirect.com/science/article/pii/S0167947323001056?via%3Dihub)", Computational Statistics & Data Analysis, 107794. (with my students Shihao Wu and Zhe Li)
 
 - Pan, R., Zhu, Y., Guo, B., **Zhu, X.**, Wang, H. (2023) "A Sequential Addressing Subsampling Method for Massive Data Analysis under Memory Constraint",  IEEE Transactions on Knowledge and Data Engineering.
 
@@ -47,7 +51,7 @@ accepted.
 - Ren, Y., **Zhu, X.**, Lu, X., Hu, G. (2022) "[Graphical Assistant Grouped Network
 Autoregression Model: a Bayesian
 Nonparametric Recourse](https://www.tandfonline.com/doi/abs/10.1080/07350015.2022.2143784?journalCode=ubes20)",
-Journal of Business & Economic Statistics, online. (Joint work with my student Yimeng Ren)
+Journal of Business & Economic Statistics. (Joint work with my student Yimeng Ren)
 
 - Gao, Y., **Zhu, X.**, Qi, H., Li, G., Zhang, R., Wang, H. (2022) 
 "[An Asymptotic Analysis of Random Partition Based Minibatch Momentum Methods for Linear Regression Models](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2143786?src=&journalCode=ucgs20)", Journal of Computational and Graphical Statistics, online.
@@ -56,7 +60,7 @@ Journal of Business & Economic Statistics, online. (Joint work with my student Y
 model](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0015/0003/a001/index.php)", Statistics and Its Interface, 15, 267-282.
 
 - Zeng, Q., Zhu, Y., **Zhu, X.**, Wang, F., Zhao, W., Sun, S., Su, M.,
-Wang, H. (2022) "[Improved Naive Bayes with Mislabeled Data](../files/2022 SII-Improved_Naive_Bayes_with_Mislabeled_Data.pdf)", Statistics and Its Interface, accepted
+Wang, H. (2022) "Improved Naive Bayes with Mislabeled Data", Statistics and Its Interface.
 
 
 - Qi, H., **Zhu, X.**, Wang, H. (2022) "[A Random Projection Method for Large-Scale Community Detection](../files/RPCD_AJE.pdf)", Statistics and Its Interface, accepted
