@@ -1,4 +1,9 @@
 
+
+- Liu, W., Xu, G., Fan, J, **Zhu, X.** (2026), "[Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression](https://arxiv.org/abs/2404.18732)",
+Journal of the American Statistical Association,
+accepted.
+
 - Ren, Y., **Zhu, X.**, Xu, G., Ma, Y. (2026).
 "[Multi-relational Network Autoregression Model with Latent Group Structures](https://jmlr.org/papers/v27/24-1191.html)",
 Journal of Machine Learning Research, online. (with my student Yimeng Ren)
@@ -7,7 +12,7 @@ Journal of Machine Learning Research, online. (with my student Yimeng Ren)
 "[High-Dimensional Spatial Autoregression
 with Latent Factors By Diversified Projections](https://arxiv.org/abs/2509.00742)",
 Journal of the American Statistical Association,
-accepted.
+online.
 
 - Lu, Y., Tao, C., Wang, D.,  Uddin, G., Wu, L., **Zhu, X.** (2025+).
         "[Robust Estimation for Dynamic Spatial Autoregression Models with Nearly Optimal Rates](https://www.sciencedirect.com/science/article/pii/S0304407625001198)", 
